@@ -1,12 +1,80 @@
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+# Maria Hrol
+
+---
+
+### Contacts
+- Phone: +375 29 616 20 46
+- Email: mariakhrol@gmail.com
+- Telegram: @marusyaby
+- Skype: marusyaby
+
+---
+
+### Summary
+
+Hi! I live in Minsk. I'm an experienced UX/UI Designer with more than 14 years of practice in the field. But at the moment I'm intended to become a professional Front-end Developer as I need challenges and at the same time, I like to study.
+
+---
+
+### Work Experience
+**2018—2019** [iFuture](https://www.ifuture.by/) Product Designer
+
+Performed interface design, interaction design, worked on prototypes and wireframes. Supported the marketing department with landing pages and other design materials.
+
+**2015—2018** [Freelance](https://www.fl.ru/) UX/UI Designer
+
+**2009—2015** [Assistent.by](https://assistent.by) Product Designer
+
+**2008—2009** [Atmatic](http://cream.team/) Web Designer
+
+---
+
+### Education
+**2019** [RS School](https://rs.school/js/) JavaScript/Front-end
+
+**2019** [HTML academy](https://htmlacademy.ru/intensive/javascript) JavaScript Level 1
+
+**2019** [HTML academy](https://htmlacademy.ru/intensive/adaptive) HTML & CSS Level 2
+
+**2019** [HTML academy](https://htmlacademy.ru/intensive/htmlcss) HTML & CSS Level 1
+
+**2016** [ArtGorbunov Design School](https://bureau.ru/school/designers/certificate/29aug2016/level1/mariya-hrol/) Designer
+
+**2014** [Modern Knowledge Shirokov College]() 
+- Faculty of Arts
+- Specialty: Virtual Design Specialist, Graphic Designer
+
+**2006** [Minsk State Linguistic University](https://www.mslu.by/)
+
+- Faculty of Intercultural Communication
+- Specialty: Intercultural Communication Specialist, English and German Translator and Business Administrative Assistant
+
+
+---
+
+### Portfolio
+Coming soon...
+<img width="" alt="" src="![this screenshot](https://github.com/username/repository/blob/branch/path/pic.png)">
+
+---
+
+### Professional Skills
+
+- HTML (Semantics, WCAG)
+- CSS (BEM, SCSS)
+- JS Basics
+- Graphics Editors
+- Git
+
+### Languages
+
+- Russian: native
+- English: advanced (C1)
+- German: intermediate (B1)
+
+### Personal Skills
+
+- Communication
+- Team Work
+- Leadership
+- Ability to Work Under Pressure
