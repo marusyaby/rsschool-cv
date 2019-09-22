@@ -54,13 +54,13 @@ Performed interface design, interaction design, worked on prototypes and wirefra
 
 ### Portfolio
 
-<img width="1000" alt="Сервис Musicus" src="https://github.com/marusyaby/portfolio-img/blob/master/musicus.jpg">
+<img width="1000" alt="Сервис Musicus" src="https://raw.githubusercontent.com/marusyaby/portfolio-img/gh-pages/musicus.jpg" />
 
-<img width="1000" alt="Приложение iBolit" src="https://github.com/marusyaby/portfolio-img/blob/master/ibolit.jpg">
+<img width="1000" alt="Приложение iBolit" src="https://raw.githubusercontent.com/marusyaby/portfolio-img/gh-pages/ibolit.jpg" />
 
-<img width="1000" alt="ProSteaks" src="https://github.com/marusyaby/portfolio-img/blob/master/steak.jpg">
+<img width="1000" alt="ProSteaks" src="https://raw.githubusercontent.com/marusyaby/portfolio-img/gh-pages/steak.jpg" />
 
-<img width="1000" alt="ICQ" src="https://github.com/marusyaby/portfolio-img/blob/master/icq.jpg">
+<img width="1000" alt="ICQ" src="https://raw.githubusercontent.com/marusyaby/portfolio-img/gh-pages/icq.jpg" />
 
 ---
 
