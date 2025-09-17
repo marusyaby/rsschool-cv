@@ -12,7 +12,7 @@
 
 ### Summary
 
-Hi! I live in Minsk. I'm an experienced UX/UI Designer with more than 14 years of practice in the field. But at the moment I'm intended to become a professional Front-end Developer as I need challenges and at the same time, I like to study.
+I am a UX/UI Designer based in Minsk with over 14 years of experience in the field. Currently, I am transitioning to a Frontend Developer role, driven by my desire for new challenges and a passion for continuous learning. I am actively enhancing my skills in HTML, CSS, and JavaScript, and I am eager to apply my design expertise to create user-friendly web applications.
 
 ---
 
@@ -30,7 +30,7 @@ Performed interface design, interaction design, worked on prototypes and wirefra
 ---
 
 ### Education
-**2024** [RS School](https://rs.school/courses/javascript-ru) JavaScript/Front-end
+**2025** [RS School](https://rs.school/courses/javascript-ru) JavaScript/Front-end
 
 **2024** [HTML academy](https://htmlacademy.ru/intensive/javascript) JavaScript. Architecture of Front-end Applications
 
