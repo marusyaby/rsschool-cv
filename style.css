@@ -65,5 +65,13 @@ img {
 
 .contacts {
   margin-top: -20px;
-  margin-bottom: 80px;
 }
+
+.info {
+    margin-bottom: 70px;
+}
+.info__date {
+    display: block;
+}
+
+
